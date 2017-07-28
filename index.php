@@ -46,8 +46,8 @@ header( 'Location: config/' ) ;
 			<li><a href="content-pages.html">Content pages</a></li>
 			</ul>
 		</li>
+        <li><a href="docs/">Docs</a></li>
         <li><a href="config/">Setup</a></li>
-        <li><a href="about.html">About</a></li>
       </ul>
     </div>
   </div>
@@ -58,7 +58,7 @@ header( 'Location: config/' ) ;
 
   <div class="row">
     <div class="twelve columns">
-      <a href="http://www.flickr.com/photos/sprengben/4315145017/" target="_blank"><img src="images/123.png" /></a>
+      <img src="images/123.jpg" />
     </div>
   </div>
   
@@ -83,14 +83,18 @@ header( 'Location: config/' ) ;
       <hr />
       <div class="row">
         <div class="six columns">
-          <p><a href="http://sechow.com/bricks/" target="_blank">OWASP Bricks</p>
+          <p>OWASP Bricks</p>
         </div>
-        <div class="right">
-           <a href="http://www.facebook.com/OWASPBricks" target="_blank"><img src="images/Facebook.png"/></a>&nbsp;<a href="https://twitter.com/OWASPBricks" target="_blank"><img src="images/Twitter.png"/></a>&nbsp;<a href="https://sourceforge.net/p/owaspbricks/" target="_blank"><img src="images/Sourceforge.png"/></a>&nbsp;<a href="https://www.owasp.org/index.php/OWASP_Bricks" target="_blank"><img src="images/owasp.png"/></a>&nbsp;<a href="http://gplus.to/OWASPBricks" target="_blank"><img src="images/Google+.png"/></a>&nbsp;<a href="https://www.youtube.com/OWASPBricks" target="_blank"><img src="images/YouTube.png"/></a>&nbsp;<a href="http://owaspbricks.blogspot.com/" target="_blank"><img src="images/Blogger.png"/></a>
-		</div>
+        <div class="six columns">
+          <div class="right">
+           <a href="http://www.facebook.com/OWASPBricks"><img src="images/Facebook.png"/></a>&nbsp;<a href="https://twitter.com/OWASPBricks"><img src="images/Twitter.png"/></a>&nbsp;<a href="https://sourceforge.net/p/owaspbricks/"><img src="images/Sourceforge.png"/></a>&nbsp;<a href="https://www.owasp.org/index.php/OWASP_Bricks"><img src="images/owasp.png"/></a>&nbsp;<a href="http://gplus.to/OWASPBricks"><img src="images/Google+.png"/></a>&nbsp;<a href="https://www.youtube.com/OWASPBricks"><img src="images/YouTube.png"/></a>&nbsp;<a href="http://owaspbricks.blogspot.com/"><img src="images/Blogger.png"/></a>
+		</div>	
+        </div>
       </div>
     </div>
   </footer>
+
+  
 	
 	
 	

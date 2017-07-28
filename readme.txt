@@ -1,5 +1,6 @@
 ==About==
-OWASP Bricks - 2.2 Tuivai
+OWASP Bricks - 1.0 Narmada
+
 ==Installation==
 
 Copy this folder into the www directory.
@@ -16,7 +17,7 @@ Bricks will redirect automatically to http://<your_ip>/bricks/config/.
 
 Fill in the configuration details:
 	Database username: root
-	Database password: root in uWAMP. Keep it blank in the case of XAMPP
+	Database password: root in uWAMP. Keep it blank in the xase of XAMPP
 	Database name: bricks
 	Database host: localhost
 	Show executed commands: checked by default
@@ -28,10 +29,6 @@ Refresh http://<your_ip>/bricks/config/ page
 Click on Setup/reset database
 
 Installation finished. Bricks will be ready at http://<your_ip>/bricks/
-
-==Upgrading==
-
-Copy the contents of this directory on to the existing Bricks installation directory.
 
 
 ==Websites==
